@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'question', # 추가
     'rest_framework', # 추가
     'answer', # 추가
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
