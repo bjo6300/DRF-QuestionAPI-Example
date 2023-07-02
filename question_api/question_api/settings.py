@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'question', # 추가
     'rest_framework', # 추가
+    'answer', # 추가
 ]
 
 MIDDLEWARE = [
